@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\siri-csharp-playground\\udm-csharp-wpf-dotnet-elemente\\wpf-xaml-stackpanel-listbox\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1981315A-3AD6-4590-97FC-DA39EFDE1E4B}|wpf-xaml-stackpanel-listbox.csproj|c:\\users\\admin\\source\\repos\\siri-csharp-playground\\udm-csharp-wpf-dotnet-elemente\\wpf-xaml-stackpanel-listbox\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1981315A-3AD6-4590-97FC-DA39EFDE1E4B}|wpf-xaml-stackpanel-listbox.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1981315A-3AD6-4590-97FC-DA39EFDE1E4B}|wpf-xaml-stackpanel-listbox.csproj|c:\\users\\admin\\source\\repos\\siri-csharp-playground\\udm-csharp-wpf-dotnet-elemente\\wpf-xaml-stackpanel-listbox\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1981315A-3AD6-4590-97FC-DA39EFDE1E4B}|wpf-xaml-stackpanel-listbox.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{605322a2-17ae-43f4-b60f-766556e46c87}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\siri-csharp-playground\\udm-csharp-wpf-dotnet-elemente\\wpf-xaml-stackpanel-listbox\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\siri-csharp-playground\\udm-csharp-wpf-dotnet-elemente\\wpf-xaml-stackpanel-listbox\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-15T12:00:44.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\siri-csharp-playground\\udm-csharp-wpf-dotnet-elemente\\wpf-xaml-stackpanel-listbox\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\siri-csharp-playground\\udm-csharp-wpf-dotnet-elemente\\wpf-xaml-stackpanel-listbox\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAvwBwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T12:00:43.135Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

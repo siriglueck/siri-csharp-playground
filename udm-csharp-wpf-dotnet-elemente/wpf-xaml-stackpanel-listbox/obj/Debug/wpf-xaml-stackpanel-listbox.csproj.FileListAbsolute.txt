@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\siri-csharp-playground\udm-csharp-wpf-dotnet-elemente\wpf-xaml-stackpanel-listbox\bin\Debug\wpf-xaml-stackpanel-listbox.exe.config
+C:\Users\Admin\source\repos\siri-csharp-playground\udm-csharp-wpf-dotnet-elemente\wpf-xaml-stackpanel-listbox\bin\Debug\wpf-xaml-stackpanel-listbox.exe
+C:\Users\Admin\source\repos\siri-csharp-playground\udm-csharp-wpf-dotnet-elemente\wpf-xaml-stackpanel-listbox\bin\Debug\wpf-xaml-stackpanel-listbox.pdb
+C:\Users\Admin\source\repos\siri-csharp-playground\udm-csharp-wpf-dotnet-elemente\wpf-xaml-stackpanel-listbox\obj\Debug\wpf-xaml-stackpanel-listbox.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\siri-csharp-playground\udm-csharp-wpf-dotnet-elemente\wpf-xaml-stackpanel-listbox\obj\Debug\MainWindow.g.cs
+C:\Users\Admin\source\repos\siri-csharp-playground\udm-csharp-wpf-dotnet-elemente\wpf-xaml-stackpanel-listbox\obj\Debug\App.g.cs
+C:\Users\Admin\source\repos\siri-csharp-playground\udm-csharp-wpf-dotnet-elemente\wpf-xaml-stackpanel-listbox\obj\Debug\wpf-xaml-stackpanel-listbox_MarkupCompile.cache
+C:\Users\Admin\source\repos\siri-csharp-playground\udm-csharp-wpf-dotnet-elemente\wpf-xaml-stackpanel-listbox\obj\Debug\wpf-xaml-stackpanel-listbox_MarkupCompile.lref
+C:\Users\Admin\source\repos\siri-csharp-playground\udm-csharp-wpf-dotnet-elemente\wpf-xaml-stackpanel-listbox\obj\Debug\MainWindow.baml
+C:\Users\Admin\source\repos\siri-csharp-playground\udm-csharp-wpf-dotnet-elemente\wpf-xaml-stackpanel-listbox\obj\Debug\wpf-xaml-stackpanel-listbox.g.resources
+C:\Users\Admin\source\repos\siri-csharp-playground\udm-csharp-wpf-dotnet-elemente\wpf-xaml-stackpanel-listbox\obj\Debug\wpf_xaml_stackpanel_listbox.Properties.Resources.resources
+C:\Users\Admin\source\repos\siri-csharp-playground\udm-csharp-wpf-dotnet-elemente\wpf-xaml-stackpanel-listbox\obj\Debug\wpf-xaml-stackpanel-listbox.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\siri-csharp-playground\udm-csharp-wpf-dotnet-elemente\wpf-xaml-stackpanel-listbox\obj\Debug\wpf-xaml-stackpanel-listbox.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\siri-csharp-playground\udm-csharp-wpf-dotnet-elemente\wpf-xaml-stackpanel-listbox\obj\Debug\wpf-xaml-stackpanel-listbox.exe
+C:\Users\Admin\source\repos\siri-csharp-playground\udm-csharp-wpf-dotnet-elemente\wpf-xaml-stackpanel-listbox\obj\Debug\wpf-xaml-stackpanel-listbox.pdb
