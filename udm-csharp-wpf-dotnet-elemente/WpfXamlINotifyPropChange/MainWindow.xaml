@@ -1,0 +1,17 @@
+﻿<Window x:Class="WpfXamlINotifyPropChange.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfXamlINotifyPropChange"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="250" Width="400">
+    <StackPanel>
+        <Label Content="Num1"></Label>
+        <TextBox Width="100" Height="30" Text="{Binding Path=Num1, Mode=TwoWay}"></TextBox>
+        <Label Content="Num2"></Label>
+        <TextBox Width="100" Height="30" Text="{Binding Path=Num2, Mode=TwoWay}"></TextBox>
+        <Label Content="Sum"></Label>
+        <TextBox Width="100" Height="30" Text="{Binding Path=Result, Mode=TwoWay}"></TextBox>
+    </StackPanel>
+</Window>

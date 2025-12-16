@@ -1,19 +1,7 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\siri-csharp-playground\\udm-csharp-wpf-dotnet-elemente\\WpfXamlStackPanelListBox\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{1981315A-3AD6-4590-97FC-DA39EFDE1E4B}|WpfXamlStackPanelListBox.csproj|c:\\users\\admin\\source\\repos\\siri-csharp-playground\\udm-csharp-wpf-dotnet-elemente\\wpfxamlstackpanellistbox\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1981315A-3AD6-4590-97FC-DA39EFDE1E4B}|WpfXamlStackPanelListBox.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1981315A-3AD6-4590-97FC-DA39EFDE1E4B}|WpfXamlStackPanelListBox.csproj|C:\\Users\\Admin\\source\\repos\\siri-csharp-playground\\udm-csharp-wpf-dotnet-elemente\\WpfXamlStackPanelListBox\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{1981315A-3AD6-4590-97FC-DA39EFDE1E4B}|WpfXamlStackPanelListBox.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|WpfXamlStackPanelListBox||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
-    }
-  ],
+  "WorkspaceRootPath": "D:\\it-courses\\siri-playground-csharp\\udm-csharp-wpf-dotnet-elemente\\WpfXamlStackPanelListBox\\",
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -21,7 +9,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,42 +18,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{605322a2-17ae-43f4-b60f-766556e46c87}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\siri-csharp-playground\\udm-csharp-wpf-dotnet-elemente\\WpfXamlStackPanelListBox\\MainWindow.xaml.cs",
-              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\siri-csharp-playground\\udm-csharp-wpf-dotnet-elemente\\WpfXamlStackPanelListBox\\MainWindow.xaml.cs",
-              "RelativeToolTip": "MainWindow.xaml.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-16T08:33:19.625Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "WpfXamlStackPanelListBox",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\siri-csharp-playground\\udm-csharp-wpf-dotnet-elemente\\WpfXamlStackPanelListBox\\WpfXamlStackPanelListBox.csproj",
-              "RelativeDocumentMoniker": "WpfXamlStackPanelListBox.csproj",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\siri-csharp-playground\\udm-csharp-wpf-dotnet-elemente\\WpfXamlStackPanelListBox\\WpfXamlStackPanelListBox.csproj",
-              "RelativeToolTip": "WpfXamlStackPanelListBox.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-12-16T08:40:44.179Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\siri-csharp-playground\\udm-csharp-wpf-dotnet-elemente\\WpfXamlStackPanelListBox\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "MainWindow.xaml",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\siri-csharp-playground\\udm-csharp-wpf-dotnet-elemente\\WpfXamlStackPanelListBox\\MainWindow.xaml",
-              "RelativeToolTip": "MainWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-12-16T08:33:30.877Z",
-              "EditorCaption": ""
             }
           ]
         }
