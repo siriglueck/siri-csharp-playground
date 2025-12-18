@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\siri-csharp-playground\udm-csharp-wpf-with-db\WpfZooManager\bin\Debug\WpfZooManager.exe.config
+C:\Users\Admin\source\repos\siri-csharp-playground\udm-csharp-wpf-with-db\WpfZooManager\bin\Debug\WpfZooManager.exe
+C:\Users\Admin\source\repos\siri-csharp-playground\udm-csharp-wpf-with-db\WpfZooManager\bin\Debug\WpfZooManager.pdb
+C:\Users\Admin\source\repos\siri-csharp-playground\udm-csharp-wpf-with-db\WpfZooManager\obj\Debug\WpfZooManager.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\siri-csharp-playground\udm-csharp-wpf-with-db\WpfZooManager\obj\Debug\MainWindow.g.cs
+C:\Users\Admin\source\repos\siri-csharp-playground\udm-csharp-wpf-with-db\WpfZooManager\obj\Debug\App.g.cs
+C:\Users\Admin\source\repos\siri-csharp-playground\udm-csharp-wpf-with-db\WpfZooManager\obj\Debug\WpfZooManager_MarkupCompile.cache
+C:\Users\Admin\source\repos\siri-csharp-playground\udm-csharp-wpf-with-db\WpfZooManager\obj\Debug\WpfZooManager_MarkupCompile.lref
+C:\Users\Admin\source\repos\siri-csharp-playground\udm-csharp-wpf-with-db\WpfZooManager\obj\Debug\MainWindow.baml
+C:\Users\Admin\source\repos\siri-csharp-playground\udm-csharp-wpf-with-db\WpfZooManager\obj\Debug\WpfZooManager.g.resources
+C:\Users\Admin\source\repos\siri-csharp-playground\udm-csharp-wpf-with-db\WpfZooManager\obj\Debug\WpfZooManager.Properties.Resources.resources
+C:\Users\Admin\source\repos\siri-csharp-playground\udm-csharp-wpf-with-db\WpfZooManager\obj\Debug\WpfZooManager.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\siri-csharp-playground\udm-csharp-wpf-with-db\WpfZooManager\obj\Debug\WpfZooManager.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\siri-csharp-playground\udm-csharp-wpf-with-db\WpfZooManager\obj\Debug\WpfZooManager.exe
+C:\Users\Admin\source\repos\siri-csharp-playground\udm-csharp-wpf-with-db\WpfZooManager\obj\Debug\WpfZooManager.pdb
