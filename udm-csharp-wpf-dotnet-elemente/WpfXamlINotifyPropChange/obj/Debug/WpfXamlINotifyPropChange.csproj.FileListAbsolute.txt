@@ -1,0 +1,15 @@
+D:\it-courses\siri-playground-csharp\udm-csharp-wpf-dotnet-elemente\WpfXamlINotifyPropChange\bin\Debug\WpfXamlINotifyPropChange.exe.config
+D:\it-courses\siri-playground-csharp\udm-csharp-wpf-dotnet-elemente\WpfXamlINotifyPropChange\bin\Debug\WpfXamlINotifyPropChange.exe
+D:\it-courses\siri-playground-csharp\udm-csharp-wpf-dotnet-elemente\WpfXamlINotifyPropChange\bin\Debug\WpfXamlINotifyPropChange.pdb
+D:\it-courses\siri-playground-csharp\udm-csharp-wpf-dotnet-elemente\WpfXamlINotifyPropChange\obj\Debug\WpfXamlINotifyPropChange.csproj.AssemblyReference.cache
+D:\it-courses\siri-playground-csharp\udm-csharp-wpf-dotnet-elemente\WpfXamlINotifyPropChange\obj\Debug\MainWindow.g.cs
+D:\it-courses\siri-playground-csharp\udm-csharp-wpf-dotnet-elemente\WpfXamlINotifyPropChange\obj\Debug\App.g.cs
+D:\it-courses\siri-playground-csharp\udm-csharp-wpf-dotnet-elemente\WpfXamlINotifyPropChange\obj\Debug\WpfXamlINotifyPropChange_MarkupCompile.cache
+D:\it-courses\siri-playground-csharp\udm-csharp-wpf-dotnet-elemente\WpfXamlINotifyPropChange\obj\Debug\WpfXamlINotifyPropChange_MarkupCompile.lref
+D:\it-courses\siri-playground-csharp\udm-csharp-wpf-dotnet-elemente\WpfXamlINotifyPropChange\obj\Debug\MainWindow.baml
+D:\it-courses\siri-playground-csharp\udm-csharp-wpf-dotnet-elemente\WpfXamlINotifyPropChange\obj\Debug\WpfXamlINotifyPropChange.g.resources
+D:\it-courses\siri-playground-csharp\udm-csharp-wpf-dotnet-elemente\WpfXamlINotifyPropChange\obj\Debug\WpfXamlINotifyPropChange.Properties.Resources.resources
+D:\it-courses\siri-playground-csharp\udm-csharp-wpf-dotnet-elemente\WpfXamlINotifyPropChange\obj\Debug\WpfXamlINotifyPropChange.csproj.GenerateResource.cache
+D:\it-courses\siri-playground-csharp\udm-csharp-wpf-dotnet-elemente\WpfXamlINotifyPropChange\obj\Debug\WpfXamlINotifyPropChange.csproj.CoreCompileInputs.cache
+D:\it-courses\siri-playground-csharp\udm-csharp-wpf-dotnet-elemente\WpfXamlINotifyPropChange\obj\Debug\WpfXamlINotifyPropChange.exe
+D:\it-courses\siri-playground-csharp\udm-csharp-wpf-dotnet-elemente\WpfXamlINotifyPropChange\obj\Debug\WpfXamlINotifyPropChange.pdb

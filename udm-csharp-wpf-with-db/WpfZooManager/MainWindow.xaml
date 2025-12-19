@@ -7,7 +7,7 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-        <ListBox Name="listZoos" d:ItemsSource="{d:SampleData ItemCount=5}" Margin="36,41,618,45" RenderTransformOrigin="0.5,0.5">
+        <ListBox Name="listZoos" SelectionChanged="listZoos_SelectionChanged" d:ItemsSource="{d:SampleData ItemCount=5}" Margin="36,67,614,67" RenderTransformOrigin="0.5,0.5" Width="150" Height="300">
             <ListBox.RenderTransform>
                 <TransformGroup>
                     <ScaleTransform/>
@@ -17,7 +17,9 @@
                 </TransformGroup>
             </ListBox.RenderTransform>
         </ListBox>
-        <Label Content="Zoo List :"/>
+        <Label Content="Animals in the selected Zoo" Margin="226,22,374,0" Width="200" Height="30" VerticalAlignment="Top"/>
+        <ListBox Name="listAssociatedAnimals" d:ItemsSource="{d:SampleData ItemCount=5}" Width="150" Height="300" Margin="226,67,424,67"/>
+        <Label Content="List Zoo" Margin="34,22,566,0" Width="200" Height="30" VerticalAlignment="Top"/>
 
     </Grid>
 </Window>

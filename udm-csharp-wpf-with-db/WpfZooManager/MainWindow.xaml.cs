@@ -30,23 +30,63 @@ namespace WpfZooManager
             string connectionString = ConfigurationManager.ConnectionStrings["WpfZooManager.Properties.Settings.SQLEXPRESSConnectionString"].ConnectionString;
             sqlConnection = new SqlConnection(connectionString);
             ShowZoos();
-        }   
+        }
 
         public void ShowZoos()
-        { 
-            string query = "SELECT * FROM Zoo";
-            SqlDataAdapter sqlDataAdapter = new SqlDataAdapter(query, sqlConnection);
-
-            using (sqlDataAdapter)
+        {
+            try
             {
-                DataTable zooTable = new DataTable();
-                sqlDataAdapter.Fill(zooTable);
-                // Which Information from the table should be displayed in the ListBox
-                listZoos.DisplayMemberPath = "Location";
-                // Which Value should be used behind the scenes
-                listZoos.SelectedValuePath = "Id";
-                listZoos.ItemsSource = zooTable.DefaultView;
+                string query = "SELECT * FROM Zoo";
+                SqlDataAdapter sqlDataAdapter = new SqlDataAdapter(query, sqlConnection);
+
+                using (sqlDataAdapter)
+                {
+                    DataTable zooTable = new DataTable();
+                    sqlDataAdapter.Fill(zooTable);
+                    // Which Information from the table should be displayed in the ListBox
+                    listZoos.DisplayMemberPath = "Location";
+                    // Which Value should be used behind the scenes
+                    listZoos.SelectedValuePath = "Id";
+                    listZoos.ItemsSource = zooTable.DefaultView;
+                }
             }
+            catch (Exception ex)
+            {
+                MessageBox.Show(ex.Message);
+
+            }
+        }
+
+        public void ShowAssociatedAnimals()
+        {
+            try
+            {
+                string query = "SELECT * FROM Animal a inner join ZooAnimal za on a.Id = za.AnimalId where za.ZooId = @ZooId";
+                SqlCommand sqlCommand = new SqlCommand(query, sqlConnection);
+                SqlDataAdapter sqlDataAdapter = new SqlDataAdapter(sqlCommand);
+
+                using (sqlDataAdapter)
+                {
+                    sqlCommand.Parameters.AddWithValue("@ZooId", listZoos.SelectedValue);
+                    DataTable animalTable = new DataTable();
+                    sqlDataAdapter.Fill(animalTable);
+                    // Which Information from the table should be displayed in the ListBox
+                    listAssociatedAnimals.DisplayMemberPath = "Name";
+                    // Which Value should be used behind the scenes
+                    listAssociatedAnimals.SelectedValuePath = "Id";
+                    listAssociatedAnimals.ItemsSource = animalTable.DefaultView;
+                }
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show(ex.Message);
+
+            }
+        }
+
+        private void listZoos_SelectionChanged(object sender, SelectionChangedEventArgs e)
+        {
+            ShowAssociatedAnimals();
         }
     }
 }
